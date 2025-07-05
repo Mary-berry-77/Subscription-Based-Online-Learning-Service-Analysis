@@ -173,8 +173,7 @@ we compared **Day 0 (activation day)** behaviours between:
 > Statistically significant (**p < 0.001**)
 
 
-
-### 🧭 Summary
+### Summary
 
 > Day 1 Returners didn't just come back earlier — they showed **more patience**, **more engagement**, and **more interaction** on their first visit.  
 > These behavioural signals can be used as **early predictors** of conversion intent.
@@ -183,3 +182,50 @@ we compared **Day 0 (activation day)** behaviours between:
 (e.g., goal-setting, soft checkpoints, or interactive prompts).
 
 ---
+## Strategy Details
+
+### ① Prevent Early Drop-off
+
+**Rationale**  
+- 25% of drop-offs quit within **13 seconds**  
+- 50% quit within **1 minute 37 seconds**  
+→ The beginning of the lesson is the most fragile point.
+
+**Action Plan**  
+- **0–15 seconds**: Use a strong hook or preview to spark curiosity  
+- **1:00–1:30**: Gently prompt users with *Like* or *Save* options to build personal attachment
+
+**Objective**  
+Keep users engaged beyond the initial exit window (first 2 minutes), increasing chances of completing at least one lesson.
+
+
+
+### ② Optimise Lesson Length for Completion
+
+**Rationale**  
+- Average drop-out time: **~2 min 33 sec**  
+- Average completion time: **~3 min**  
+- Median completed lessons (Day 1 returners): **8**
+
+**Action Plan**  
+- Restructure key lessons to stay within **3 minutes**  
+- Design Day 0 journey to allow **6–8 short, completable lessons**
+
+**Objective**  
+Deliver a fast sense of achievement on Day 0 → more likely to return on Day 1
+
+
+
+### ③ Encourage In-Lesson Interaction
+
+**Rationale**  
+- Users who clicked Q&A or review sections were **2× more likely** to return  
+- Those who clicked both had the highest revisit rate (**34.7%**)
+
+**Action Plan**  
+- **Before playback**: Display a short preview of existing reviews  
+- **During playback**: Show related Q&A prompts at relevant moments  
+- **After playback**: Add a visible button to post a question or comment
+
+**Objective**  
+Shift passive viewers into active learners, increasing engagement and Day 1 revisit likelihood
