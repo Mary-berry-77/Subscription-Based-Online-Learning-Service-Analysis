@@ -37,10 +37,9 @@ Day 1 returners showed the strongest engagement:
 
 
 ### 📈 Expected Impact  
-- a +5%p increase in Day 1 revisit rate (from 43.5% → 48.5%)
-  - +1,177 more early returners  
-  - ~600 more revenue-converting users  
-
+- Goal: Raise Day 0 "8+ lesson completers" from 38% → 50%
+- Impact: +1.2%p increase in Day 1 revisit rate (from 15.9% → 17.1%)
+  -  Estimated +951 more early returners — purely from content restructuring, no extra cost
 
 
 ---
@@ -182,7 +181,7 @@ we compared **Day 0 (activation day)** behaviours between:
 (e.g., goal-setting, soft checkpoints, or interactive prompts).
 
 ---
-## Strategy Details
+## 🛠️Strategy Details
 
 ### ① Prevent Early Drop-off
 
