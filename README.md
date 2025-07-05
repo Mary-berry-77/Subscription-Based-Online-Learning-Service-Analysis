@@ -229,3 +229,36 @@ Deliver a fast sense of achievement on Day 0 → more likely to return on Day 1
 
 **Objective**  
 Shift passive viewers into active learners, increasing engagement and Day 1 revisit likelihood
+
+---
+
+## 📈 Expected Impact
+
+### 🎯 Objective  
+Increase the proportion of users who complete 8+ lessons on Day 0  
+→ from **38%** to **50%** among activated users (n = 62,339)
+
+
+
+### 🔁 Why it matters  
+8+ completers show a **Day 1 revisit rate of 64.7%**  
+Those who complete fewer than 8 show a much lower revisit rate  
+→ Completion behaviour is a **strong early signal** of retention intent
+
+
+
+### 📊 Impact Projection
+
+| Metric                       | Current        | After Strategy | Change     |
+|-----------------------------|----------------|----------------|------------|
+| 8+ lesson completers        | 4,737 (38%)    | 6,234 (50%)    | +1,497     |
+| Expected revisit rate       | —              | 64.7%          | —          |
+| Additional Day 1 returners  | —              | +951 users     | —          |
+| Overall Day 1 revisit rate  | 15.9%          | 17.1%          | ▲ +1.2%p   |
+
+
+
+### ✅ Strategic Takeaway  
+All improvements are achieved **without any changes in acquisition strategy or paid marketing**  
+→ driven purely by **content restructuring** and **behavioural nudges**
+
