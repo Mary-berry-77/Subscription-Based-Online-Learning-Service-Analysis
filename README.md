@@ -113,70 +113,73 @@ Among users who activated (i.e., started a lesson), 9,925 returned within 30 day
 > 🔄 Retention curves also show that Day 1 returners drop off more slowly, making them **ideal targets for early engagement nudges**.
 
 ---
+## 🔎 Insight 3: What Differentiates Day 1 Returners from Early Drop-offs?
 
-## 🌐 Behavioural Comparison: Day 1 vs Later vs Drop-off
+To understand what drives users to return — and ultimately convert —  
+we compared **Day 0 (activation day)** behaviours between:
 
-| Metric                   | Day 1 Returners | Day 2–7 Returners | Day 8–30 Returners | 0-day Drop-offs |
-|--------------------------|----------------|--------------------|--------------------|-----------------|
-| Avg. lesson completions  | 117.4          | 82.6               | 60.8               | 0               |
-| Avg. lesson exploration  | 83.7           | 51.4               | 32.2               | 1.2             |
-| Avg. time on first visit | Long           | Medium             | Short              | Very short      |
-| Q&A / Review clicks      | High           | Medium             | Low                | Near zero       |
-
-Day 1 returners didn’t just come back earlier —  
-they showed **greater intent, patience, and engagement** on Day 0.
+- **Day 1 Returners**  
+- **0-day Drop-offs** (users who never came back after first visit)
 
 ---
 
-## 🧠 Interpretation
+### 📘 Lesson Completion Count (Day 0)
 
-Early revisit ≠ coincidence  
-→ It's a **signal of intent and quality of first experience**.  
-Without a good Day 0, users don't return — regardless of future potential.
+| Segment         | Mean Completed | Median |
+|-----------------|----------------|--------|
+| 0-day Drop-offs | 3.35 lessons   | 2      |
+| Day 1 Returners | 10.45 lessons  | 8      |
 
----
-
-## 🛠️ Strategic Recommendations
-
-1. **Prevent early exits**: Simplify the start of the first lesson; make value obvious within the first few minutes  
-2. **Shorten initial lessons**: Break long content into quick wins to build momentum  
-3. **Nudge interactions early**: Move Q&A and reviews earlier in the experience to spark curiosity  
-4. **Send follow-up messages at +24h**: Target users who did not return within 1 day
+> Day 1 returners completed **3× more lessons** on average.  
+> Difference is statistically significant (**p < 0.001**).
 
 ---
 
-## 📊 Estimated Impact
+### ⏱ Time Spent on Completed Lessons
 
-Simulation shows:
-- Improving Day 1 revisit by +5%p
-→ Overall retention increases by **+3.5%p**
-→ Thousands more users pass the trial barrier and convert to revenue
+| Segment         | Mean Duration |
+|-----------------|---------------|
+| 0-day Drop-offs | 3.05 mins     |
+| Day 1 Returners | 3.85 mins     |
 
----
-
-## 👥 Team & Role
-
-- 3-person team, 4-week sprint
-- I led planning, schema design, and log integration (13 raw tables → unified session dataset)
-- Designed cohort/funnel logic, conducted behavioural analysis, and quantified strategic impact
+> Day 0 drop-offs completed lessons **~48 seconds faster** on average.  
+> This suggests they were more likely to **skip, fast-forward, or rush through** the content.
 
 ---
 
-## 🧰 Tools
+### ❌ Drop-out Time (for Incomplete Lessons)
 
-- Python (Pandas, NumPy, Seaborn)
-- Jupyter / Google Colab
-- Markdown, Lucidchart
+| Segment         | Median Drop-out |
+|-----------------|------------------|
+| 0-day Drop-offs | 96.8 sec         |
+| Day 1 Returners | 134.2 sec        |
+
+- 25% of 0-day drop-offs quit in **under 13 seconds**  
+- 50% quit within **1 minute 37 seconds**
+
+> Day 1 returners stayed **~37 seconds longer** before dropping out.  
+> Even when not completing, **longer on-screen time** signals more patience or effort.  
+> Difference is statistically significant (**p < 0.001**)
 
 ---
 
-## 📄 Appendix
+### 💬 Q&A / Review Clicks
 
-Full report includes:
-- AUC analysis
-- Segment-specific retention curves
-- Behavioural breakdown tables
-- Strategy impact simulations
+| Interaction Type         | Return Rate |
+|--------------------------|-------------|
+| No interaction           | 17.5%       |
+| Clicked Q&A or Review    | 30–35%      |
 
-👉 [Contact me](mailto:your.email@example.com) for the full report or walkthrough.
+> Users who clicked on Q&A or review sections were **~2× more likely to return**.  
+> Statistically significant (**p < 0.001**)
+
+---
+
+### 🧭 Summary
+
+> Day 1 Returners didn't just come back earlier — they showed **more patience**, **more engagement**, and **more interaction** on their first visit.  
+> These behavioural signals can be used as **early predictors** of conversion intent.
+
+👉 Use this as a **baseline** for nudging early drop-offs  
+(e.g., goal-setting, soft checkpoints, or interactive prompts).
 
