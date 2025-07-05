@@ -76,10 +76,18 @@ Our goal was to understand **when and why users drop out early**, and what behav
 
 Despite higher sign-up volume, 1-month retention has continued to decline.  
 Most cohorts lose more than half of users in the first week.
+![코호트별0일차유입수 1개월차리텐션율+추세선](https://github.com/user-attachments/assets/e19e1144-3bd4-4d9d-9e39-0e99f49fec04)
 
-<img src="https://github.com/user-attachments/assets/459fcc23-ca9d-4117-901b-019cff641b0e" width="600"/>
 
-> 🔍 Retention deterioration signals a failure in early onboarding and user value delivery.
+> 📊 **Chart Explanation**  
+- **Grey bars** represent the number of new users in each monthly cohort  
+- **Black dotted line** shows the upward trend in sign-ups over time  
+- **Blue line** represents each cohort’s 1-month retention rate (%)  
+- **Red dotted line** shows the downward trend in retention
+
+> 🔍 The diverging trends suggest a clear retention issue:  
+Even as more users sign up, fewer are staying beyond the first month,  
+indicating gaps in early onboarding and initial value delivery.
 
 ---
 
