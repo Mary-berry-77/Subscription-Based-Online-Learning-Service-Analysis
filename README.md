@@ -121,7 +121,6 @@ we compared **Day 0 (activation day)** behaviours between:
 - **Day 1 Returners**  
 - **0-day Drop-offs** (users who never came back after first visit)
 
----
 
 ### 📘 Lesson Completion Count (Day 0)
 
@@ -133,7 +132,7 @@ we compared **Day 0 (activation day)** behaviours between:
 > Day 1 returners completed **3× more lessons** on average.  
 > Difference is statistically significant (**p < 0.001**).
 
----
+
 
 ### ⏱ Time Spent on Completed Lessons
 
@@ -145,7 +144,7 @@ we compared **Day 0 (activation day)** behaviours between:
 > Day 0 drop-offs completed lessons **~48 seconds faster** on average.  
 > This suggests they were more likely to **skip, fast-forward, or rush through** the content.
 
----
+
 
 ### ❌ Drop-out Time (for Incomplete Lessons)
 
@@ -161,7 +160,7 @@ we compared **Day 0 (activation day)** behaviours between:
 > Even when not completing, **longer on-screen time** signals more patience or effort.  
 > Difference is statistically significant (**p < 0.001**)
 
----
+
 
 ### 💬 Q&A / Review Clicks
 
@@ -173,7 +172,7 @@ we compared **Day 0 (activation day)** behaviours between:
 > Users who clicked on Q&A or review sections were **~2× more likely to return**.  
 > Statistically significant (**p < 0.001**)
 
----
+
 
 ### 🧭 Summary
 
@@ -183,3 +182,4 @@ we compared **Day 0 (activation day)** behaviours between:
 👉 Use this as a **baseline** for nudging early drop-offs  
 (e.g., goal-setting, soft checkpoints, or interactive prompts).
 
+---
