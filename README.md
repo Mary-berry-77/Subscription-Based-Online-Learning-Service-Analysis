@@ -93,16 +93,24 @@ indicating gaps in early onboarding and initial value delivery.
 
 ## 🔎 Insight 2: Day 1 Revisit is the Turning Point
 
-Among users who activated (i.e., started a lesson), 23.3k returned within 30 days.  
-**Day 1 revisit was the strongest differentiator** of future retention and revenue.
+Among users who activated (i.e., started a lesson), 9,925 returned within 30 days.  
+**Day 1 revisit** emerged as a behavioural breakpoint — a signal of stronger future retention and engagement.
 
-| Segment      | Users   | Revenue Conversion Rate |
-|--------------|---------|--------------------------|
-| Day 1 Return | 10,139  | 50.6%                    |
-| Day 2+       | 13,194  | 62.9%                    |
+| Segment        | Users  | Share of Retained Users | Revenue Conversion Rate |
+|----------------|--------|--------------------------|--------------------------|
+| Day 1 Return   | 4,319  | 43.5%                    | 50.6%                    |
+| Day 2+ Return  | 5,606  | 56.5%                    | 62.9%                    |
 
-> 43.5% of returners came back **exactly on Day 1**  
-> These users stayed longer, completed more content, and interacted more than later returners.
+> 🧠 **Why Day 1 matters**  
+> Nearly **half of all returning users** revisit on Day 1.  
+> Among them, **1 in 2 convert to revenue**, meaning **Day 1 behaviour is the earliest and most reliable signal** of conversion intent.
+
+📌 Compared to later returners, Day 1 users:
+- Showed higher long-term survival
+- Explored and completed more lessons
+- Interacted more with Q&A and reviews
+
+> 🔄 Retention curves also show that Day 1 returners drop off more slowly, making them **ideal targets for early engagement nudges**.
 
 ---
 
