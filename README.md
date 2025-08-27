@@ -63,7 +63,7 @@ Our goal was to understand **when and why users drop out early**, and what behav
 
 | Stage       | Criteria                                      | Users    | Conversion Rate |
 |-------------|-----------------------------------------------|----------|-----------------|
-| Acquisition | New sign-ups (Nov 2022 – Dec 2023)            | 98,452   | -               |
+| Acquisition | New sign-ups (Nov 2022 – Nov 2023)            | 98,452   | -               |
 | Activation  | Started at least one lesson                   | 62,339   | 63.3%           |
 | Retention   | Returned at least once after first lesson     | 9,925    | 15.9%           |
 > ℹ️ *Revenue* stage was excluded due to missing payment logs for approx. **40% of actual paying users**, making conversion inference unreliable.
